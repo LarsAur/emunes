@@ -1,0 +1,24 @@
+#include "windows.h"
+#include "resource.h"
+
+IDR_MYMENU MENU
+BEGIN
+    POPUP "File"
+    BEGIN
+        MENUITEM "Open", ID_FILE_OPEN
+        MENUITEM "Save", ID_FILE_SAVE
+        MENUITEM "Exit", ID_FILE_EXIT
+    END
+
+    POPUP "Options"
+    BEGIN
+        MENUITEM "Toggle debug display", ID_OPTIONS_TOGGLE_DEBUG
+    END
+
+    POPUP "Window"
+    BEGIN
+        MENUITEM "Set maximum scale", ID_WINDOW_SET_MAX_SCALE
+        MENUITEM "Set minimum scale", ID_WINDOW_SET_MIN_SCALE
+        MENUITEM "Set match scale", ID_WINDOW_SET_MATCH
+    END
+END
