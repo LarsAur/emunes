@@ -21,6 +21,9 @@ Information regarding the NES architecture is from the [NESdev Wiki](https://www
 * Super mario bros (Not working)
 * Nes Test by kevtris (https://www.nesdev.org/wiki/Emulator_tests)
 
+### DK
+![DK working](https://user-images.githubusercontent.com/3136092/184536507-0675d999-78ba-4533-9d73-d5cc6448f5f3.png)
+
 ### Nes test 
 ![Test passing](https://user-images.githubusercontent.com/3136092/184536073-f0599696-6a67-4080-9a46-21f76344a8b9.png)
 
