@@ -12,8 +12,8 @@
 
 #define A_KEYCODE 0x58        // X
 #define B_KEYCODE 0x5A        // Z
-#define START_KEYCODE VK_RETURN // HOME
-#define SELECT_KEYCODE VK_RSHIFT // END
+#define START_KEYCODE VK_RETURN // ENTER
+#define SELECT_KEYCODE VK_RSHIFT // SHIFT
 #define DPAD_UP VK_UP         // Up arrow
 #define DPAD_DOWN VK_DOWN     // Down arrow
 #define DPAD_LEFT VK_LEFT     // Left arrow
